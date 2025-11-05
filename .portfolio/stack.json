@@ -1,0 +1,8 @@
+{
+  "frontend": ["HTML", "CSS","JavaScript"],
+  "backend": ["Node.js"],
+  "others": ["Solidity", "Ethereum"]
+}
+
+
+

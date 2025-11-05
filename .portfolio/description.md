@@ -1,0 +1,1 @@
+The **todoList_ETH** project is designed to demonstrate how to use Ethereum for task management. Users can add, edit, and delete tasks, which are stored securely on the blockchain, ensuring data integrity and security.

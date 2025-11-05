@@ -1,0 +1,4 @@
+- **Create Tasks**: Add new tasks to your todo list.
+- **Edit Tasks**: Update existing tasks to reflect changes.
+- **Delete Tasks**: Remove tasks that are no longer needed.
+- **Blockchain Integration**: All tasks are securely stored on the Ethereum blockchain.
